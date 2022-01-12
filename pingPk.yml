@@ -1,0 +1,4 @@
+---
+- hosts: localhost
+  include_role:
+     name: role1
