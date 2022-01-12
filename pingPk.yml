@@ -1,5 +1,5 @@
 ---
-- hosts: centos1
+- hosts: localhost
   tasks:
   - include_role:
        name: role1
